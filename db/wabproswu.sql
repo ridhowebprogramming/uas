@@ -69,22 +69,7 @@ INSERT INTO `lowongan_kerja` (`id`, `lowongan_kerja`, `deskripsi`, `foto`, `tang
 (3, 'PT Freeport Indonesia (PTFI)', 'PT Freeport Indonesia (PTFI) adalah sebuah perusahaan Amerika Serikat yang berada di Indonesia dan bergerak di bidang eksplorasi, pertambangan, pemprosesan, dan pemasaran konsentrat tembaga, emas, dan perak di dataran tinggi Tembagapura, Mimika, Papua Tengah.', 'uploads/1732543436_images (2).png', '2024-11-26 01:51:08'),
 (4, 'PT Garuda Indonesia (Persero) Tbk (GIAA)', 'PT Garuda Indonesia (Persero) Tbk (GIAA), adalah maskapai penerbangan utama Indonesia yang melayani lebih dari 90 destinasi lokal dan internasional, dengan lebih dari 600 penerbangan sehari.', 'uploads/1732543686_Lowongan-Kerja-BUMN-PT-Garuda-Indonesia-Persero-Tbk.webp', '2024-11-26 01:51:04'),
 (5, 'PT Perusahaan Listrik Negara (Persero) ', 'PT Perusahaan Listrik Negara (Persero) atau biasa disingkat menjadi PLN, adalah sebuah badan usaha milik negara Indonesia yang bergerak di bidang ketenagalistrikan. Untuk mendukung kegiatan bisnisnya, hingga akhir tahun 2021, perusahaan ini mengelola sejumlah pembangkit listrik dengan total kapasitas terpasang mencapai 64.553 MW', 'uploads/1732543871_channels4_profile.jpg', '2024-11-26 01:51:01'),
-(12, 'PT GRAHA INDAH', 'deegvsdbsba', 'uploads/1733238022_channels4_profile.jpg', '2024-12-03 15:00:22'),
-(13, 'PT GRAHA INDAH', 'deegvsdbsba', 'uploads/1733238306_channels4_profile.jpg', '2024-12-03 15:05:06'),
-(14, 'PT GRAHA INDAH', 'deegvsdbsba', 'uploads/1733239907_channels4_profile.jpg', '2024-12-03 15:31:47'),
-(15, 'PT GRAHA INDAH', 'deegvsdbsba', 'uploads/1733241271_channels4_profile.jpg', '2024-12-03 15:54:31'),
-(16, 'PT GRAHA INDAH', 'rhsh', 'uploads/1733493593_channels4_profile.jpg', '2024-12-06 13:59:53'),
-(17, 'PT GRAHA INDAH', 'rhsh', 'uploads/1733493956_channels4_profile.jpg', '2024-12-06 14:05:56'),
-(18, 'PT GRAHA INDAH', 'rhsh', 'uploads/1733494547_channels4_profile.jpg', '2024-12-06 14:15:47'),
-(19, 'PT GRAHA INDAH', 'rhsh', 'uploads/1733494578_channels4_profile.jpg', '2024-12-06 14:16:18'),
-(20, 'PT GRAHA INDAH', 'rhsh', 'uploads/1733494686_channels4_profile.jpg', '2024-12-06 14:18:06'),
-(21, 'PT GRAHA INDAH', 'rhsh', 'uploads/1733494890_channels4_profile.jpg', '2024-12-06 14:21:30'),
-(22, 'PT GRAHA INDAH', 'dd', 'uploads/1733543486_channels4_profile.jpg', '2024-12-07 03:51:26'),
-(23, 'PT GRAHA INDAH', 'dd', 'uploads/1733543536_channels4_profile.jpg', '2024-12-07 03:52:16'),
-(24, 'BAJU BATIK', 'Batik adalah hasil karya bangsa Indonesia yang merupakan perpaduan antara seni dan teknologi oleh leluhur bangsa Indonesia. Batik Indonesia dapat berkembang hingga sampai pada suatu tingkatan yang tak ada bandingannya baik dalam desain/motif maupun prosesnya.', 'uploads/1733543865_channels4_profile.jpg', '2024-12-07 03:57:45'),
-(25, 'BAJU BATIK', 'Batik adalah hasil karya bangsa Indonesia yang merupakan perpaduan antara seni dan teknologi oleh leluhur bangsa Indonesia. Batik Indonesia dapat berkembang hingga sampai pada suatu tingkatan yang tak ada bandingannya baik dalam desain/motif maupun prosesnya.', 'uploads/1733543875_BATIK.jpg', '2024-12-07 03:57:55'),
-(26, 'BAJU JAS PRIA', 'Baju jas pria adalah pakaian resmi model Eropa yang berlengan panjang dan dipakai di luar kemeja. Jas biasanya dibuat sepasang dengan celana, dan harus dipakai bersama dengan celananya yang dibuat dari bahan dan warna yang sama. ', 'uploads/1733543962_jas.jpg', '2024-12-07 03:59:22'),
-(27, 'BAJU KOKO PRIA', 'Baju koko pria adalah pakaian muslim pria yang identik dengan kesederhanaan, kesopanan, dan kenyamanan. Baju koko memiliki ciri khas kerah tegak, lengan panjang, dan beberapa kancing di bawahnya. Baju koko bisa berdesain polos atau memiliki hiasan bordir. ', 'uploads/1733544042_koko.jpg', '2024-12-07 04:00:42');
+
 
 --
 -- Indexes for dumped tables
